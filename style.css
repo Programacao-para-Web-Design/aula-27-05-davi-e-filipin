@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, main, section, article, aside, footer {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+}
+
+header {
+    /* cab */
+}
+
+nav {
+    /* est naveg */
+}
+
+main {
+    /* cont princ */
+}
+
+section {
+    /* est sec */
+}
+
+article {
+    /* Est art */
+}
+
+aside {
+    /* Est lat */
+}
+
+footer {
+    /* est rdp */
+}
