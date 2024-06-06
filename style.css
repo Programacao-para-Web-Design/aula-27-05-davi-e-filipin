@@ -12,29 +12,27 @@ header, nav, main, section, article, aside, footer {
 }
 
 header {
-    /* cab */
+    background-color: gray;
 }
 
 nav {
-    /* est naveg */
-}
-
-main {
-    /* cont princ */
-}
-
-section {
-    /* est sec */
+    padding: 10px;
 }
 
 article {
-    /* Est art */
+    margin-bottom: 20px;
 }
 
-aside {
-    /* Est lat */
+.cor-azul {
+    background-color: blue;
 }
 
-footer {
-    /* est rdp */
+.cor-vermelha {
+    background-color: red;
+}
+
+.cor-verde {
+    background-color: green;
+}
+
 }
