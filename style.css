@@ -10,7 +10,7 @@ header, nav, main, section, article, aside, footer {
     border: 1px solid #ccc;
 }
 
-header {
+#01 {
     background-color: gray;
 }
 
